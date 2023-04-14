@@ -1,0 +1,335 @@
+*{
+    box-sizing: border-box;
+}
+.main{
+    background-color: rgb(215, 207, 207);
+    viewport-fit: auto;
+    width: 415px;
+    height: 893px;
+    position: absolute;
+    border: 0.25px solid black;
+    border-radius: 5px;
+}
+.time{
+    color: black;
+	width:30px;
+	height:9px;
+	position:absolute;
+	left:29px;
+	top:16px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+}
+.icon .icons{
+    display: flex;
+    list-style: none;
+    position: absolute;
+    left:333.3230895996094px;
+	top:18.15753936767578px;
+}
+img{
+    height: 14px;
+    width: 12px;
+}
+.mid { 
+	background-color:#F9F9F9;
+	width:413px;
+	height:796px;
+	position:absolute;
+	left:0px;
+	top:96px;
+	border-radius:25px;
+}
+.search{
+    z-index: 1;
+    background-color: rgb(152, 141, 141);
+	width:391px;
+	height:48px;
+	position:absolute;
+	left:12px;
+	top:112px;
+	border-radius: 15px;
+}
+.search .text{
+    color: rgb(0, 0, 0);
+    width: 176px;
+    height: 17px;
+    position: absolute;
+    left: 27px;
+    top: 13px;
+    text-align: left;
+    font-size: 14px;
+}
+.search .search-icon{
+    position: absolute;
+    right: 25px;
+    top: 13px;
+    text-align: center;
+
+}
+.less-than{
+    width: 15px;
+    height: 16px;
+    position: absolute;
+    left: 27px;
+    top: 60px;
+    background-image: url(image/3209392_angle_arrow_direction_left_less_icon.png);
+    background-size: cover;
+}
+.upper .tittle{
+    color: rgba(122.3999972641468, 107.09999665617943, 107.09999665617943, 1);
+    width: 117px;
+    height: 19px;
+    position: absolute;
+    left: 148px;
+    top: 56px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+.mid .image1{
+    width: 78px;
+    height: 86px;
+    position: relative;
+    left: 27px;
+    top: 80px;
+    border-radius: 16px;
+    background-image: url(image/aa.jpeg);
+    background-size: cover;
+}
+.j{
+    color: rgba(0, 0, 0, 1);
+    width: 103px;
+    height: 19px;
+    position: absolute;
+    left: 127px;
+    top: 90px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+    .ij {
+        color: rgba(0, 0, 0, 1);
+        width: 55px;
+        height: 16px;
+        position: absolute;
+        left: 127px;
+        top: 115px;
+        font-family: Inter;
+        text-align: left;
+        font-size: 13px;
+        letter-spacing: 0;
+    }
+    .id {
+        color: rgba(0, 0, 0, 1);
+        width: 55px;
+        height: 16px;
+        position: absolute;
+        left: 127px;
+        top: 140px;
+        font-family: Inter;
+        text-align: left;
+        font-size: 13px;
+        letter-spacing: 0;
+    }
+    .mi1{
+        width: 17px;
+        height: 17px;
+        position: absolute;
+        left: 324px;
+        top: 115px;
+        background-image: url(image/3669330_message_ic_icon.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .ci1{
+        width: 17px;
+        height: 17px;
+        position: absolute;
+        left: 368px;
+        top: 115px;
+        background-image: url(image/352510_local_phone_icon.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+.mid .block1{
+    height: 86px;
+    position: absolute;
+    top: 10px;
+}
+
+.mid .image2{
+    width: 78px;
+    height: 86px;
+    position: relative;
+    left: 27px;
+    top: 100px;
+    border-radius: 16px;
+    background-image: url(image/b.jpeg);
+    background-size: cover;
+}
+
+.mid .image3{
+    width: 78px;
+    height: 86px;
+    position: relative;
+    left: 27px;
+    top: 120px;
+    border-radius: 16px;
+    background-image: url(image/c.jpeg);
+    background-size: cover;
+}
+
+.mid .image4{
+    width: 78px;
+    height: 86px;
+    position: relative;
+    left: 27px;
+    top: 140px;
+    border-radius: 16px;
+    background-image: url(image/d.jpeg);
+    background-size: cover;
+}
+
+.mid .image5{
+    width: 78px;
+    height: 86px;
+    position: relative;
+    left: 27px;
+    top: 160px;
+    border-radius: 16px;
+    background-image: url(image/e.jpeg);
+    background-size: cover;
+}
+
+.mid .image6{
+    width: 78px;
+    height: 86px;
+    position: relative;
+    left: 27px;
+    top: 180px;
+    border-radius: 16px;
+    background-image: url(image/f.jpeg);
+    background-size: cover;
+}
+.leave-icon{
+    width: 19px;
+    height: 20px;
+    position: absolute;
+    left: 46px;
+    top: 818px;
+    background-image: url(image/326714_pencil_translate_write_icon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.leave-text{
+    color: rgb(160, 169, 176);
+    width: 35px;
+    height: 13px;
+    position: absolute;
+    left: 39px;
+    top: 851px;
+    text-align: left;
+    font-size: 11px;
+}
+.muster-icon{
+    width: 20px;
+    height: 21px;
+    position: absolute;
+    left: 115px;
+    top: 818px;
+    background-image: url(image/2867870_calander_icon.png);
+    background-size: cover;
+}
+.muster-text{
+    color: rgb(160, 169, 176);
+    width: 46px;
+    height: 13px;
+    position: absolute;
+    left: 102px;
+    top: 852px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 0px;
+}
+.center{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px;
+    background-color: rgb(230, 140, 67);
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 172px;
+    top: 783px;
+    border-radius: 30px;
+}
+.center-icon{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 187px;
+    top: 798px;
+    background-image: url(image/211761_information_icon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-text{
+    color: rgb(230, 140, 67);
+    width: 37px;
+    height: 13px;
+    position: absolute;
+    left: 187px;
+    top: 859px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 0px;
+}
+.late-icon{
+    width: 16px;
+    height: 17px;
+    position: absolute;
+    left: 273px;
+    top: 820px;
+    background-image: url(image/7853741_logout_kashifarif_exit_out_close_icon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.late-text{
+    color: rgb(160, 169, 176);
+    width: 41px;
+    height: 26px;
+    position: absolute;
+    left: 266px;
+    top: 846px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 0px;
+}
+.holiday-icon{
+    width: 20px;
+    height: 21px;
+    position: absolute;
+    left: 349px;
+    top: 819px;
+    background-image: url(image/10136636_christmas_calender_decoration_calendar_holiday_icon.png);
+    background-size: cover;
+}
+.holiday-text{
+    color: rgb(160, 169, 176);
+    width: 59px;
+    height: 26px;
+    position: absolute;
+    left: 332px;
+    top: 846px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 0px;
+}
